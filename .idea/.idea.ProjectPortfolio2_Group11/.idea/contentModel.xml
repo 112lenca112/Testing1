@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\aliha\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\aliha\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_ProjectPortfolio2_Group11.-1660075669.00" t="ExcludeRecursive" />
+    <e p="D:\RUC\Kandidat\1 Semester\Project portfolio\Project portfolio 2\ProjectPortfolio2_Group11" t="IncludeFlat">
+      <e p="DataServiceLib" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DataService" t="Include">
+          <e p="BookmarkingDataService.cs" t="Include" />
+          <e p="RatingDataService.cs" t="Include" />
+          <e p="SearchDataService.cs" t="Include" />
+          <e p="UsersDataService.cs" t="Include" />
+        </e>
+        <e p="DataServiceFacade.cs" t="Include" />
+        <e p="DataServiceLib.csproj" t="IncludeRecursive" />
+        <e p="DBObjects" t="Include">
+          <e p="ActorsKnownForTitles.cs" t="Include" />
+          <e p="ActorsProfession.cs" t="Include" />
+          <e p="BookmarkPerson.cs" t="Include" />
+          <e p="Bookmarktitle.cs" t="Include" />
+          <e p="Directors.cs" t="Include" />
+          <e p="NameBasics.cs" t="Include" />
+          <e p="SearchHistory.cs" t="Include" />
+          <e p="TitleAkas.cs" t="Include" />
+          <e p="TitleBasics.cs" t="Include" />
+          <e p="TitleEpisode.cs" t="Include" />
+          <e p="TitleGenres.cs" t="Include" />
+          <e p="TitlePrincipals.cs" t="Include" />
+          <e p="UserNameRate.cs" t="Include" />
+          <e p="Users.cs" t="Include" />
+          <e p="UserTitleRate.cs" t="Include" />
+          <e p="WordSearch.cs" t="Include" />
+          <e p="Writer.cs" t="Include" />
+        </e>
+        <e p="IDataService" t="Include">
+          <e p="IBookmarkingDataService.cs" t="Include" />
+          <e p="IRatingDataService.cs" t="Include" />
+          <e p="ISearchDataService.cs" t="Include" />
+          <e p="IUsersDataService.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="DataServiceLib.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Raw11Context.cs" t="Include" />
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+      <e p="ProjectPortfolio2_Group11.sln" t="IncludeFlat" />
+      <e p="WebService" t="IncludeRecursive">
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Controller" t="Include">
+          <e p="BookmarkController.cs" t="Include" />
+          <e p="RatingController.cs" t="Include" />
+          <e p="SearchController.cs" t="Include" />
+          <e p="UsersController.cs" t="Include" />
+        </e>
+        <e p="Model" t="Include">
+          <e p="BookmarkPersonDTO.cs" t="Include" />
+          <e p="BookmarkPersonForCreationDto.cs" t="Include" />
+          <e p="MappingProfile" t="Include">
+            <e p="BookmarkPersonProfile.cs" t="Include" />
+            <e p="UserNameRateProfile.cs" t="Include" />
+            <e p="UsersProfile.cs" t="Include" />
+          </e>
+          <e p="UserNameRateDTO.cs" t="Include" />
+          <e p="UserNameRateForCreationDto.cs" t="Include" />
+          <e p="UsersDTO.cs" t="Include" />
+          <e p="UsersForCreationDTO.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="WebService.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WebService.csproj" t="IncludeRecursive" />
+      </e>
+    </e>
+  </component>
+</project>

@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{0B1DE85D-E339-440C-8B3C-551528981443}|Default">
+  <MonoDevelop.Ide.ItemProperties.WebServiceTests PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebServiceTests/BookmarkControllerTest.cs">
+    <Files>
+      <File FileName="WebServiceTests/BookmarkControllerTest.cs" Line="29" Column="15" />
+      <File FileName="DataServiceLib/IDataService/IBookmarkingDataService.cs" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.WebService PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

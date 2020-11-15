@@ -1,0 +1,27 @@
+D:/RUC/Kandidat/1 Semester/Project portfolio/Project portfolio 2/ProjectPortfolio2_Group11/DataServiceLib/bin/Debug/netcoreapp3.1/DataServiceLib.deps.json
+D:/RUC/Kandidat/1 Semester/Project portfolio/Project portfolio 2/ProjectPortfolio2_Group11/DataServiceLib/bin/Debug/netcoreapp3.1/DataServiceLib.dll
+D:/RUC/Kandidat/1 Semester/Project portfolio/Project portfolio 2/ProjectPortfolio2_Group11/DataServiceLib/bin/Debug/netcoreapp3.1/DataServiceLib.pdb
+D:/RUC/Kandidat/1 Semester/Project portfolio/Project portfolio 2/ProjectPortfolio2_Group11/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.csprojAssemblyReference.cache
+D:/RUC/Kandidat/1 Semester/Project portfolio/Project portfolio 2/ProjectPortfolio2_Group11/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.AssemblyInfoInputs.cache
+D:/RUC/Kandidat/1 Semester/Project portfolio/Project portfolio 2/ProjectPortfolio2_Group11/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.AssemblyInfo.cs
+D:/RUC/Kandidat/1 Semester/Project portfolio/Project portfolio 2/ProjectPortfolio2_Group11/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.csproj.CoreCompileInputs.cache
+D:/RUC/Kandidat/1 Semester/Project portfolio/Project portfolio 2/ProjectPortfolio2_Group11/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.dll
+D:/RUC/Kandidat/1 Semester/Project portfolio/Project portfolio 2/ProjectPortfolio2_Group11/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.pdb
+C:/Users/bob-w/Source/Repos/ProjectPortfolio2_Group11/DataServiceLib/bin/Debug/netcoreapp3.1/DataServiceLib.deps.json
+C:/Users/bob-w/Source/Repos/ProjectPortfolio2_Group11/DataServiceLib/bin/Debug/netcoreapp3.1/DataServiceLib.dll
+C:/Users/bob-w/Source/Repos/ProjectPortfolio2_Group11/DataServiceLib/bin/Debug/netcoreapp3.1/DataServiceLib.pdb
+C:/Users/bob-w/Source/Repos/ProjectPortfolio2_Group11/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.csprojAssemblyReference.cache
+C:/Users/bob-w/Source/Repos/ProjectPortfolio2_Group11/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.AssemblyInfoInputs.cache
+C:/Users/bob-w/Source/Repos/ProjectPortfolio2_Group11/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.AssemblyInfo.cs
+C:/Users/bob-w/Source/Repos/ProjectPortfolio2_Group11/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.csproj.CoreCompileInputs.cache
+C:/Users/bob-w/Source/Repos/ProjectPortfolio2_Group11/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.dll
+C:/Users/bob-w/Source/Repos/ProjectPortfolio2_Group11/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.pdb
+/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/DataServiceLib/bin/Debug/netcoreapp3.1/DataServiceLib.deps.json
+/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/DataServiceLib/bin/Debug/netcoreapp3.1/DataServiceLib.dll
+/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/DataServiceLib/bin/Debug/netcoreapp3.1/DataServiceLib.pdb
+/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.csprojAssemblyReference.cache
+/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.AssemblyInfoInputs.cache
+/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.AssemblyInfo.cs
+/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.csproj.CoreCompileInputs.cache
+/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.dll
+/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/DataServiceLib/obj/Debug/netcoreapp3.1/DataServiceLib.pdb

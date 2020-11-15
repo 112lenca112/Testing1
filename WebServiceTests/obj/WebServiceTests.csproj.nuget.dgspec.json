@@ -1,0 +1,214 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/WebServiceTests/WebServiceTests.csproj": {}
+  },
+  "projects": {
+    "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/DataServiceLib/DataServiceLib.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/DataServiceLib/DataServiceLib.csproj",
+        "projectName": "DataServiceLib",
+        "projectPath": "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/DataServiceLib/DataServiceLib.csproj",
+        "packagesPath": "/Users/Lenuska/.nuget/packages/",
+        "outputPath": "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/DataServiceLib/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Lenuska/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            },
+            "Npgsql.EntityFrameworkCore.PostgreSQL": {
+              "target": "Package",
+              "version": "[3.1.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/WebService/WebService.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/WebService/WebService.csproj",
+        "projectName": "WebService",
+        "projectPath": "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/WebService/WebService.csproj",
+        "packagesPath": "/Users/Lenuska/.nuget/packages/",
+        "outputPath": "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/WebService/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Lenuska/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/DataServiceLib/DataServiceLib.csproj": {
+                "projectPath": "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/DataServiceLib/DataServiceLib.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[8.1.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/WebServiceTests/WebServiceTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/WebServiceTests/WebServiceTests.csproj",
+        "projectName": "WebServiceTests",
+        "projectPath": "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/WebServiceTests/WebServiceTests.csproj",
+        "packagesPath": "/Users/Lenuska/.nuget/packages/",
+        "outputPath": "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/WebServiceTests/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/Lenuska/.config/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/DataServiceLib/DataServiceLib.csproj": {
+                "projectPath": "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/DataServiceLib/DataServiceLib.csproj"
+              },
+              "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/WebService/WebService.csproj": {
+                "projectPath": "/Users/Lenuska/Downloads/ProjectPortfolio2_Group11-ALI-2/WebService/WebService.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "FluentAssertions": {
+              "target": "Package",
+              "version": "[5.10.3, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.5.0, )"
+            },
+            "Moq": {
+              "target": "Package",
+              "version": "[4.15.1, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[1.2.0, )"
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.401/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
